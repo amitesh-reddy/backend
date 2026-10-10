@@ -1,0 +1,9 @@
+com\medireminder\model\Medicine.class
+com\medireminder\repository\MedicineHistoryRepository.class
+com\medireminder\model\MedicineHistory.class
+com\medireminder\model\User.class
+com\medireminder\MediReminderApplication.class
+com\medireminder\controller\MedicineController.class
+com\medireminder\repository\UserRepository.class
+com\medireminder\repository\MedicineRepository.class
+com\medireminder\controller\AuthController.class
